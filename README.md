@@ -45,7 +45,3 @@ O site está hospedado gratuitamente via **GitHub Pages** e acessível publicame
 ## 📄 Licença
 
 Projeto educacional sem fins lucrativos. Todos os direitos dos filmes mencionados pertencem aos seus respectivos detentores.
-
----
-
-Feito com 💖 e muito capricho por **Fabio**.
